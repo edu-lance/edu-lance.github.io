@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "banner": [
+        "https://edu-lance.github.io/img/banner/1.png",
+        "https://edu-lance.github.io/img/banner/2.png",
+        "https://edu-lance.github.io/img/banner/3.png"
+      ]
+    },
+    {
+      "goodsId": 0,
+      "spanSize": 4,
+      "imageUrl": "https://edu-lance.github.io/img/goods0.png",
+      "text": "每日推荐"
+    },
+    {
+      "goodsId": 1,
+      "spanSize": 2,
+      "imageUrl": "https://edu-lance.github.io/img/goods1.png",
+      "text": "瑞士欧品客（OUPINKE）手表"
+    },
+    {
+      "goodsId": 2,
+      "spanSize": 2,
+      "imageUrl": "https://edu-lance.github.io/img/goods2.png",
+      "text": "坤格（Kronsegler）德国进口手表"
+    },
+    {
+      "goodsId": 3,
+      "spanSize": 2,
+      "imageUrl": "https://edu-lance.github.io/img/goods3.png",
+      "text": "15.6英寸 超簿本 轻薄本"
+    },
+    {
+      "goodsId": 4,
+      "spanSize": 2,
+      "imageUrl": "https://edu-lance.github.io/img/goods4.png",
+      "text": "泰迪熊公仔布娃娃"
+    },
+    {
+      "goodsId": 5,
+      "spanSize": 4,
+      "imageUrl": "https://edu-lance.github.io/img/goods5.png",
+      "text": "华为智能眼镜"
+    }
+  ],
+  "code": 0,
+  "message": "ok"
+}
